@@ -1,9 +1,10 @@
 # Linear_Regression
 
-Linear Regression Model on a Housing dataset 
-Linear regression is a widely used regression technique.​
-It’s employed for predicting a continuous target variable.​
-Assumption: Assumes a linear relationship between input features and the target.​
+# Basic Linear Regression Model on a Housing dataset 
+
+- Linear regression is a widely used regression technique.​
+- It’s employed for predicting a continuous target variable.​
+- Assumption: Assumes a linear relationship between input features and the target.​
 
 1. Load and explore the data -->
 Import necessary libraries (pandas, numpy, matplotlib),
