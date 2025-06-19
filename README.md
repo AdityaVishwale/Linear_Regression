@@ -1,6 +1,6 @@
 # Linear_Regression
 
-# Basic Linear Regression Model on a Housing dataset 
+# Simple Linear Regression Model on a Housing dataset 
 
 - Linear regression is a widely used regression technique.​
 - It’s employed for predicting a continuous target variable.​
